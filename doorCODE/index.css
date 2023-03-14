@@ -1,0 +1,12 @@
+button{
+    width: 40px;
+}
+
+.door-shown {
+    display: block;
+    
+}
+
+.door-hidden {
+    display: none;
+}
