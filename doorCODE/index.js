@@ -1,8 +1,8 @@
 const secretKey = "122333";
 let input = "";
 
-function onButtonClick (id) {
-    input = input + id;
+function onButtonClickTami (foo) {
+    input = input + foo;
 
     if (input === secretKey){
         const closedDoorElement  = document.querySelector("#close");
